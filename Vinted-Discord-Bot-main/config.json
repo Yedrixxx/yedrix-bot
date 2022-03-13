@@ -1,0 +1,13 @@
+{
+    "token": "OTUyNTA5NDA0OTYyNDkyNDI2.Yi3Dgg.IUXbmoI4ZHHTaqKzUUwAuDhgvS0",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://www.vinted.fr/vetements?search_text=Gilets%20zipp%C3%A9s%20ralph%20lauren&search_id=4724435777&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=88&price_to=20&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first": {
+            "channel": 949042106771599374
+        },
+        "https://www.vinted.fr/vetements?search_text=nike&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=53&price_to=20&currency=EUR&order=newest_first": {
+            "channel": 949042106771599374
+        }
+    }
+}
